@@ -1,5 +1,7 @@
 project: TimeBlocker API
+
   description: >
+  
     Projeto de estudo em desenvolvimento Back-End com FastAPI. O sistema é uma API de agendamentos
     simples que inclui autenticação com JWT, operações CRUD, documentação automática, e testes.
     O objetivo principal é aplicar na prática conhecimentos essenciais de um desenvolvedor backend,
